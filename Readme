@@ -1,18 +1,6 @@
 Requisitos:
 
 Para Windows: [Git] [Python] (obs: lembrar de marcar "add python to PATH")
-Para Ubuntu: sudo apt-get install git python3 python3-pip jupyter-core jupyter-notebook
-Esse repositório irá armazenar códigos de exemplo para o material da disciplina. A maioria dos códigos serão disponibilizados em Python, testados na versão 3.5, no formato de Notebooks Jupyter.
-
-Ainda será necessário ter instalado as seguintes dependências:
-
-matplotlib
-opencv-python
-Pillow
-scikit-image
-scikit-learn
-jupyter
-numpy
-scipy
-ipywidgets
-Você poderá instalá-las de uma só vez usando o comando pip install -r requirements.txt após ter clonado o repositório.
+Para Ubuntu: sudo apt-get install git python3
+opencv
+aruco
